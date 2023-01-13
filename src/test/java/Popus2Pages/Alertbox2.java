@@ -16,6 +16,8 @@ public class Alertbox2 {
 		
 	}
 	
+	
+	
 	public void clickearbotton( ) {
 		buttonPages.botonlogin();
 	}
